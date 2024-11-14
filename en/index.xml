@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minn7ie&#39;s Blog</title>
-    <link>https://minn7ie.github.io/</link>
+    <link>https://minn7ie.github.io/en/</link>
     <description>Recent content on Minn7ie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language>
-    <atom:link href="https://minn7ie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://minn7ie.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
